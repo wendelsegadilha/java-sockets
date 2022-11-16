@@ -56,7 +56,7 @@ public class App {
                 }
 
             } catch (Exception e) {
-                e.printStackTrace();
+                e.printStackTrace(); //teste commit 
             } finally {
                 try {
                     in.close();
